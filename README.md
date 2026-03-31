@@ -16,13 +16,19 @@
 
 ## Key Features
 
-- Creates a list of all files a site requests while loading 
-- Scrapes standard links and links from JS
-- Allows you filter by file type(s)
-- Allows you to select multiple files to download or copy links
-- Allows you to preview text based and media files
-- Has a built in download manager
-- Works on both desktop and mobile browsers  
+- Live Asset Capture: Automatically generates a real-time list of every file a site requests during page load.
+
+- Deep Scrape Engine: Extracts standard HTML links and dynamically injected links from JavaScript files.
+
+- Intelligent Filtering: Instantly drills down by specific file types or custom extensions.
+
+- Batch Action: Multi-select files to queue for bulk download or copy organized link lists to your clipboard.
+
+- Instant Preview: Preview media files and inspect code strings directly within the extension without leaving the tab.
+
+- Integrated Download Manager: A built-in system to track, manage, and organize your extracted assets.
+
+- Cross-Platform Sync: Optimized for a seamless experience across both desktop and mobile browsers.
 
 ---
 
