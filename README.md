@@ -28,7 +28,7 @@
 
 - **Integrated Download Manager**: A built-in system to track, manage, and organize your extracted assets.
 
-- **Cross-Platform Sync**: Optimized for a seamless experience across both desktop and mobile browsers.
+- **Platform Compatibility**: Optimized for a seamless experience across both desktop and mobile browsers.
 
 ---
 
