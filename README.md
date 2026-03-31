@@ -16,19 +16,19 @@
 
 ## Key Features
 
-- Live Asset Capture: Automatically generates a real-time list of every file a site requests during page load.
+- **Live Asset Capture**: Automatically generates a real-time list of every file a site requests during page load.
 
-- Deep Scrape Engine: Extracts standard HTML links and dynamically injected links from JavaScript files.
+- **Deep Scrape Engine**: Extracts standard HTML links and dynamically injected links from JavaScript files.
 
-- Intelligent Filtering: Instantly drills down by specific file types or custom extensions.
+- **Intelligent Filtering**: Instantly drills down by specific file types or custom extensions.
 
-- Batch Action: Multi-select files to queue for bulk download or copy organized link lists to your clipboard.
+- **Batch Action**: Multi-select files to queue for bulk download or copy organized link lists to your clipboard.
 
-- Instant Preview: Preview media files and inspect code strings directly within the extension without leaving the tab.
+- **Instant Preview**: Preview media files and inspect code strings directly within the extension without leaving the tab.
 
-- Integrated Download Manager: A built-in system to track, manage, and organize your extracted assets.
+- **Integrated Download Manager**: A built-in system to track, manage, and organize your extracted assets.
 
-- Cross-Platform Sync: Optimized for a seamless experience across both desktop and mobile browsers.
+- **Cross-Platform Sync**: Optimized for a seamless experience across both desktop and mobile browsers.
 
 ---
 
