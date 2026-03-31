@@ -1,8 +1,8 @@
 # WebAssetX Browser Extension
 
-![WebAssetX Logo](./badcases-webassetx/img/icon128.png)
+![WebAssetX Logo](./badcases-webassetx/icons/icon128.png)
 
-**WebAssetX** is a browser extension that tracks and showcases users who have blocked you on X (formerly Twitter). It provides a collapsible interface panel on all X pages, a Trophy Room for your top blockers, and tools to backup and restore your blocker data.  
+**WebAssetX** is a browser extension that creates a list of all files a site requests while loading and allows you to preview and download them.
 
 ---
 
@@ -16,10 +16,12 @@
 
 ## Key Features
 
-- Tracks users when a comment from a blocker is encountered  
-- Lookup conversation history with blockers  
-- Add blockers to the **Trophy Room** to showcase your top 10 blocks  
-- Backup and restore your blocker list and Trophy Room  
+- Creates a list of all files a site requests while loading 
+- Scrapes standard links and links from JS
+- Allows you filter by file type(s)
+- Allows you to select multiple files to download or copy links
+- Allows you to preview text based and media files
+- Has a built in download manager
 - Works on both desktop and mobile browsers  
 
 ---
